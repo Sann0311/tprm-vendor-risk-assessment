@@ -1,7 +1,3 @@
-# tprm-vendor-risk-assessment
-Hands-on TPRM project covering vendor intake, risk tiering, security due diligence, evidence review, remediation, and continuous monitoring.
-
-
 # TPRM Vendor Risk Assessment
 
 I built this project to get deeper hands-on practice with the day-to-day work involved in third-party risk management.
