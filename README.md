@@ -22,7 +22,7 @@ The assessment workflow includes:
 * Continuous monitoring and reassessment triggers
 * Executive-level TPRM metrics and reporting
 
-## Current Work
+## Assessment Workbook
 
 The first version of the project is available in:
 
