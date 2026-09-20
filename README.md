@@ -97,21 +97,18 @@ The questionnaire used in this project covers areas including:
 
 The practice questionnaire is aligned to common CAIQ and SIG risk areas. It does not reproduce licensed SIG questionnaire content.
 
-## What I am building next
+## MetricFlow Assessment
 
-The next phase is focused on creating a realistic evidence package for the Critical vendor and performing a deeper assessment against it.
+MetricFlow is the Tier 1 vendor used for the detailed assessment in this project. The review covers inherent risk, questionnaire responses, evidence validation, SOC 2 analysis, residual risk, remediation, and conditional approval.
 
-Planned additions include:
+- [Assessment overview](assessments/metricflow/README.md)
+- [Vendor Risk Assessment](reports/MetricFlow_Vendor_Risk_Assessment.pdf)
+- [SOC 2 Review](reports/MetricFlow_SOC2_Review.pdf)
+- [DR Test Summary](evidence/metricflow/MetricFlow_DR_Test_Summary.pdf)
+- [Penetration Test Summary](evidence/metricflow/MetricFlow_Penetration_Test_Summary.pdf)
+- [Access Control Policy Excerpt](evidence/metricflow/MetricFlow_Access_Control_Policy_Excerpt.pdf)
 
-* Mock SOC 2 assessment package
-* BCP/DR test evidence
-* Penetration test findings
-* Vendor security policies
-* Subprocessor assessment
-* Contract security review
-* Formal vendor risk assessment report
-* Risk acceptance workflow
-* Additional continuous-monitoring scenarios
+All supporting evidence is simulated and clearly labeled for public portfolio use.
 
 ## Purpose
 
