@@ -26,7 +26,7 @@ The assessment workflow includes:
 
 The first version of the project is available in:
 
-`TPRM_Vendor_Risk_Assessment.xlsx`
+[Open the TPRM assessment workbook](TPRM_Vendor_Risk_Assessment.xlsx)
 
 The workbook currently includes:
 
